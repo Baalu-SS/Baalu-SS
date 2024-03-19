@@ -9,8 +9,9 @@
 
 Skills: SQL📊, Tableau, PowerBI, R, Uipath- RPA, Python for Data analysis, Excel
 
-- 🔭 I’m currently working on Data Modelling using Spotify 
-
+- 🔭 I’m currently working on Data Modelling using Spotify.
+  
+For more details, visit:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Baalu-Ss)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/baalu-ss/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/baalu_ss/)  
 
