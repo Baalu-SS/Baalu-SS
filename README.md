@@ -12,6 +12,7 @@ Skills: SQL📊, Tableau, PowerBI, R, Uipath- RPA, Python for Data analysis, Exc
 - 🔭 I’m currently working on Data Modelling using Spotify 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +22,7 @@ Skills: SQL📊, Tableau, PowerBI, R, Uipath- RPA, Python for Data analysis, Exc
 <style>
     /* CSS to change image color */
     .icon {
-        filter: invert(42%) sepia(85%) saturate(3852%) hue-rotate(107deg) brightness(92%) contrast(83%);
+        filter: invert(40%) sepia(35%) saturate(2832%) hue-rotate(10deg) brightness(92%) contrast(113%);
     }
 </style>
 </head>
