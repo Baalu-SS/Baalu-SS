@@ -24,3 +24,18 @@ For more details, please visit:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Baalu-Ss)  
+
+
+
+
+
+
+
+# 💫 About Me:
+I'm a Data analyst passionate about Data Science 📊. I like analysing various data and building dashboards. I love making scalable pipelines and improving, and optimizing systems. <br><br>🌱 I completed my Masters in Business Analytics and Marketing from the University of New South Wales, Sydney.<br>📝  I'm currently learning Data Modelling using DBT-Cloud ☁️ and Amazon 📱 Machine Learning.<br>💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science<br>💬 Talk to me about Cricket  🏏, Tennis 🎾, Football⚽️, Movies 🎥,  and Photography 📸
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Baalu_ss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baalu-ss/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Baalu-SS)
+
+
