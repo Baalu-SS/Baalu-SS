@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Baalu!
 ####  A data analyst enthusiast and I live in Australia.
+# 💫 About Me:
+I'm a Data analyst passionate about Data Science 📊. I like analysing various data and building dashboards. I love making scalable pipelines and improving, and optimizing systems. <br><br>🌱 I completed my Masters in Business Analytics and Marketing from the University of New South Wales, Sydney.<br>📝  I'm currently learning Data Modelling using DBT-Cloud ☁️ and Amazon 📱 Machine Learning.<br>💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science<br>💬 Talk to me about Cricket  🏏, Tennis 🎾, Football⚽️, Movies 🎥,  and Photography 📸
+
 ![ A data analyst enthusiast and I live in Australia.](https://pbs.twimg.com/media/GJCGMFGaEAAFllV?format=png&name=900x900)
 
 🧲  I’m a passionate problem solver with a data-driven approach to identifying impactful solutions.
@@ -26,13 +29,6 @@ For more details, please visit:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Baalu-Ss)  
 
 
-
-
-
-
-
-# 💫 About Me:
-I'm a Data analyst passionate about Data Science 📊. I like analysing various data and building dashboards. I love making scalable pipelines and improving, and optimizing systems. <br><br>🌱 I completed my Masters in Business Analytics and Marketing from the University of New South Wales, Sydney.<br>📝  I'm currently learning Data Modelling using DBT-Cloud ☁️ and Amazon 📱 Machine Learning.<br>💡 I'm interested in all things data: Big Data, Cloud, Machine Learning and Data Science<br>💬 Talk to me about Cricket  🏏, Tennis 🎾, Football⚽️, Movies 🎥,  and Photography 📸
 
 
 ## 🌐 Socials:
