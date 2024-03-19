@@ -2,9 +2,9 @@
 ####  A data analyst enthusiast and I live in Australia.
 ![ A data analyst enthusiast and I live in Australia.](https://pbs.twimg.com/media/GJB88rnbEAAGgPu?format=jpg&name=medium)
 
-💡 I’m a passionate problem solver with a data-driven approach to identifying impactful solutions.
+🧲 I’m a passionate problem solver with a data-driven approach to identifying impactful solutions.
 
-💡 My curiosity and growth mindset enable me to approach challenges with optimism, as I believe challenges are key to process improvement and innovation.
+🧲 My curiosity and growth mindset enable me to approach challenges with optimism, as I believe challenges are key to process improvement and innovation.
 
 🧲 I also possess extensive analytical skills, strong attention to detail, and a significant ability to work in an agile way to adapt to the fast-growing world. 
 
