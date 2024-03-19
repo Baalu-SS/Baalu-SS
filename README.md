@@ -12,5 +12,23 @@ Skills: SQL📊, Tableau, PowerBI, R, Uipath- RPA, Python for Data analysis, Exc
 - 🔭 I’m currently working on Data Modelling using Spotify 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Baalu-SS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/baalu-ss/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/baalu_ss/)  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Icons</title>
+<style>
+    /* CSS to change image color */
+    .icon {
+        filter: invert(42%) sepia(85%) saturate(3852%) hue-rotate(107deg) brightness(92%) contrast(83%);
+    }
+</style>
+</head>
+<body>
+    <a href="https://github.com/Baalu-SS"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
+    <a href="https://www.linkedin.com/in/baalu-ss/"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+    <a href="https://www.instagram.com/baalu_ss/"><img class="icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"></a>
+</body>
+</html>
 
