@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Baalu
+### Hi there 👋, I'm Baalu!
 ####  A data analyst enthusiast and I live in Australia.
 ![ A data analyst enthusiast and I live in Australia.](https://pbs.twimg.com/media/GJCGMFGaEAAFllV?format=png&name=900x900)
 
