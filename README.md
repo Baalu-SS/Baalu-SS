@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Baalu!
 ####  A data analyst enthusiast and I live in Australia.
 
-![ A data analyst enthusiast and I live in Australia.]
 
 # 💫 About Me:
 🧲 I completed my Masters in Business Analytics and Marketing from the University of New South Wales, Sydney.
